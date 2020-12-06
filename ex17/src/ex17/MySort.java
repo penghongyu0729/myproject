@@ -15,6 +15,7 @@ public class MySort {
 			System.out.print(i+" ");
 		}
 	}
+	//this is buttle sort
 	public static void sort(int []a,int num)
 	{
 		int tmp;
