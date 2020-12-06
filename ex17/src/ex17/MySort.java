@@ -3,7 +3,7 @@ package ex17;
 public class MySort {
 	public static void main(String args[])
 	{
-		int num=10;
+		int num=10;//size is too small
 		int []a=new int[num];
 		for(int i=0;i<num;i++)
 		{
